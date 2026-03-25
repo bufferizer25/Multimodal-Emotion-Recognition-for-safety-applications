@@ -1,0 +1,3 @@
+emotion-ferplus-8.onnx
+
+#Should also be downloaded for my model to work#
