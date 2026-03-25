@@ -15,7 +15,7 @@
 ## Setup and Installation
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/bufferizer25/facial-emotion-detection.git](https://github.com/bufferizer25/facial-emotion-detection.git)
+    git clone [https://github.com/bufferizer25/Multimodal-Emotion-Recognition-for-safety-applications.git](https://github.com/bufferizer25/Multimodal-Emotion-Recognition-for-safety-applications.git)
     cd facial-emotion-detection
     ```
 2.  **Create a Virtual Environment:**
